@@ -49,10 +49,12 @@ Bulut teknolojimiz ile herkese istediğiniz anketi cevaplatın.  Her bir kullan�
 
 # Mehmet AKINOL
 www.mehmetakinol.com.tr
+
 https://www.linkedin.com/in/mehmet-akinol-0725381a/
 
 # Denizhan ŞAHİN
 www.denizhansahin.com
+
 https://www.linkedin.com/in/denizzhan-%C5%9Fahin/
 
 # Görseller
