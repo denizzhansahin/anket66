@@ -1,11 +1,17 @@
 # anket66
 Anket66 Uygulaması
 
-![image10](https://github.com/denizzhansahin/anket66/assets/95483485/6515e78c-95ca-4ab1-8014-13ecf2bace37)
+<div align="center">
+    <img src="https://github.com/denizzhansahin/anket66/assets/95483485/6515e78c-95ca-4ab1-8014-13ecf2bace37" width="33%">
+</div>
 
 Merhaba! Yeni uygulamamız Google Play Store'da yayında! Hızlı, kolay, dinamik anketler burada! İstersen anket kodu ya da QR kod ile istediğiniz anketi açıp cevaplayabilirsiniz.
 Özel olarak anket yaptırmak için bizimle iletişime geçiniz. İstediğiniz anketi yapmak artık daha kolay. Özel anket kodu ve özel anket QR kod hizmeti ile her türlü ihtiyacınıza yönelik olarak Anket66 yanınızda!
-![image13](https://github.com/denizzhansahin/anket66/assets/95483485/9201bed8-6449-4f64-a733-23cde9de8018)
+
+
+<div align="center">
+    <img src="https://github.com/denizzhansahin/anket66/assets/95483485/9201bed8-6449-4f64-a733-23cde9de8018" width="33%">
+</div>
 
 https://play.google.com/store/apps/details?id=com.bogazliyan.anket66
 https://code66.my.canva.site/anket66
