@@ -1,9 +1,7 @@
 # anket66
 Anket66 Uygulaması
 
-<div align="center">
 ![image10](https://github.com/denizzhansahin/anket66/assets/95483485/6515e78c-95ca-4ab1-8014-13ecf2bace37)
-</div>
 
 Merhaba! Yeni uygulamamız Google Play Store'da yayında! Hızlı, kolay, dinamik anketler burada! İstersen anket kodu ya da QR kod ile istediğiniz anketi açıp cevaplayabilirsiniz.
 Özel olarak anket yaptırmak için bizimle iletişime geçiniz. İstediğiniz anketi yapmak artık daha kolay. Özel anket kodu ve özel anket QR kod hizmeti ile her türlü ihtiyacınıza yönelik olarak Anket66 yanınızda!
@@ -43,11 +41,12 @@ Bulut teknolojimiz ile herkese istediğiniz anketi cevaplatın.  Her bir kullan�
 Çözümlerimiz ile her alanda size yardımcı olmaya çalışıyoruz. Anket66 bu anlamda attığımız ilk adım. Daha fazla adım atığ hedefimiz koşmaktır. Başarı için koşmaya hazırız.
 
 # Mehmet AKINOL
-# www.mehmetakinol.com.tr
-# https://www.linkedin.com/in/mehmet-akinol-0725381a/
+www.mehmetakinol.com.tr
+https://www.linkedin.com/in/mehmet-akinol-0725381a/
 
 # Denizhan ŞAHİN
-# www.denizhansahin.com
+www.denizhansahin.com
+https://www.linkedin.com/in/denizzhan-%C5%9Fahin/
 
 # Görseller
 ![image12](https://github.com/denizzhansahin/anket66/assets/95483485/3b58f143-8438-45a3-bd9a-e0e9886a128e)
